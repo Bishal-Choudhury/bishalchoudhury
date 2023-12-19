@@ -1,73 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
+<h1 align="center">Hi 👋, I'm Bishal Choudhury</h1>
+<h3 align="center">A passionate AI/ML aspirant</h3>
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            box-sizing: border-box;
-            text-align: center;
-        }
+- 🔭 I’m currently working on **ML Algorithms & Its integration with Web Dev**
 
-        h1, h3 {
-            color: #3498db;
-        }
+- 🌱 I’m currently learning **Next, ML, etc..**
 
-        h3 {
-            margin-bottom: 20px;
-        }
+- 📫 How to reach me **spacex1919@gmail.com**
 
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        li {
-            background-color: #3498db;
-            color: #fff;
-            padding: 10px 20px;
-            margin: 10px 0;
-            border-radius: 5px;
-            display: inline-block;
-        }
-
-        a {
-            color: #3498db;
-            text-decoration: none;
-            transition: color 0.3s ease;
-        }
-
-        a:hover {
-            color: #2980b9;
-        }
-    </style>
-    <title>Bishal Choudhury's Profile</title>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi 👋, I'm Bishal Choudhury</h1>
-        <h3>A passionate AI/ML aspirant</h3>
-
-        <ul>
-            <li>🔭 I’m currently working on <strong>ML Algorithms & Its integration with Web Dev</strong></li>
-            <li>🌱 I’m currently learning <strong>Next, ML, etc..</strong></li>
-            <li>📫 How to reach me <a href="mailto:spacex1919@gmail.com">spacex1919@gmail.com</a></li>
-            <li>💼 Worked for <strong>LTIMindtree</strong> as Data Engineer Intern & <strong>Focalworks</strong> as ML Intern</li>
-        </ul>
-    </div>
-</body>
-</html>
+- 💼 Worked for **LTIMindtree** as Data Engineer Intern & **Focalworks** as ML Intern
 
 
 <h3 align="left">Languages and Tools:</h3>
